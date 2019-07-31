@@ -1,0 +1,1 @@
+web: gunicorn Newbie_6.wsgi --log-file -
